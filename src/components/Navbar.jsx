@@ -10,7 +10,7 @@ export default function Navbar() {
       <ul>
         <li className='logo'>
           <img src={Temple} alt='andromeda-logo' />
-          <span>Andromeda Management</span>
+          <span>Andromeda Developer</span>
         </li>
 
         <li>
