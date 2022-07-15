@@ -2,3 +2,7 @@
   max-width: 600px;
   margin-bottom: 10rem;
 }
+
+.create-form textarea {
+  resize: none;
+}
