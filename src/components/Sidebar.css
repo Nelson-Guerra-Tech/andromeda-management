@@ -10,6 +10,7 @@
 .sidebar-content {
   position: fixed;
   width: inherit;
+  height: inherit;
 }
 .sidebar .user {
   font-weight: bold;
@@ -45,4 +46,11 @@
 }
 .sidebar .links .active img {
   filter: invert(40%);
+}
+
+@media screen and(max-width: 768px) {
+  .sidebar {
+    width: 200px;
+    max-width: 200px;
+  }
 }
