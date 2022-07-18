@@ -1,10 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">React Wordle Clone ✨</h1>
+  <h1 align="center">Developer Project Management App ✨</h1>
 
   <p align="center">
-    It is a Wordle game clone, made with React. The goal of this project is to practice basic React fundamentals using useEffect, useState, and creating custom hooks. The game uses random words API and axios to fetch data. Site URL / Demo: 
+    It is a React application for developers to manage project with groups or a team. The app uses Firebase as a backend for user authentication. . The user can add a project, comment on projects, mark project as complete, and see users online/offline. Site URL / Demo: 
     <a href="https://react-wordle-updated-clone.netlify.app/">https://react-wordle-updated-clone.netlify.app/</a>
     <br />
     <br />
