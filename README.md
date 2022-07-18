@@ -12,7 +12,7 @@
   </p>
 </p>
 
-[![Site preview](/public/social-image.png)](https://react-wordle-updated-clone.netlify.app/)
+[![Site preview](/public/social-image.png)](https://andromeda-management.web.app/login)
 
 ## Table of Contents
 
