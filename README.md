@@ -5,7 +5,7 @@
 
   <p align="center">
     It is a React application for developers to manage project with groups or a team. The app uses Firebase as a backend for user authentication. . The user can add a project, comment on projects, mark project as complete, and see users online/offline. Site URL / Demo: 
-    <a href="https://react-wordle-updated-clone.netlify.app/">https://andromeda-management.web.app/login</a>
+    <a href="https://andromeda-management.web.app/login">https://andromeda-management.web.app/login</a>
     <br />
     <br />
     <a href="https://nelson-guerra.tech">About Me</a>
